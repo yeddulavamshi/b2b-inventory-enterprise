@@ -30,5 +30,5 @@ A full-stack Monolithic ERP application designed to track warehouse stock, manag
 ### 3. Frontend (React)
 * Navigate to the `frontend` folder.
 * Install dependencies: `npm install`
-* Start the development server: `npm start`
-* The application will open on `http://localhost:3000`.
+* Start the development server: `npm run dev`
+* The application will typically open on `http://localhost:5173` (check your terminal for the exact local URL).
