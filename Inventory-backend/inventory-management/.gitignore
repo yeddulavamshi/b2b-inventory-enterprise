@@ -1,0 +1,38 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+log/
+logs/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# IntelliJ IDEA / VS Code / Eclipse
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Java Compiled Files
+*.class
+*.jar
+*.war
+
+# Mac/Windows Junk
+.DS_Store
+Thumbs.db
